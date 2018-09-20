@@ -1,2 +1,2 @@
 # Web-App
-A demo web application used for learning purposes
+An incomplete demo web application created to teach myself web development.
